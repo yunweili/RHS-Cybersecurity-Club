@@ -1,5 +1,6 @@
 # RHS-Cybersecurity-Club
 This is a portfolio for all of the projects and upcoming events and plans for the Cybersecurity Club of Redmond High School. For any questions, make sure to email s-yli@lwsd.org or s-agandhi@lwsd.org for more information!
+Make sure to check out our website at the link: https://rhscscclub.info
 
 # Contact Us
 If you would like to contact us, make sure to use the following link down below to reach out to us directly:
